@@ -1,7 +1,7 @@
-Given two integers n,k return all possible combinations of k numbers out of the range
-Input: n=4, k=2 Output: [[1,4],[1,3],[1,2],[2,3],[2,4],[3,4]]
+#Given two integers n,k return all possible combinations of k numbers out of the range
+#Input: n=4, k=2 Output: [[1,4],[1,3],[1,2],[2,3],[2,4],[3,4]]
 
-Python Solution from Neetcode / Backtracking
+#Python Solution from Neetcode / Backtracking
 
 def combinations(n,k):
   res = []
